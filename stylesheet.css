@@ -46,3 +46,13 @@ img {
     border-radius: 50%; 
     border: 3px solid orange;
 }
+
+ul {
+    list-style-type: none; 
+    padding: 0;            
+    margin: 0;             
+}
+
+ul li {
+    margin-bottom: 8px;    
+}
