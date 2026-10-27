@@ -56,3 +56,9 @@ ul {
 ul li {
     margin-bottom: 8px;    
 }
+
+.project-item {
+    cursor: help;
+    border-bottom: 1px dotted gray; 
+    padding-bottom: 2px;
+}
